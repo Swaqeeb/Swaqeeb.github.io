@@ -1,4 +1,16 @@
-# Welcome to Jekyll!
+title: "Md Najmus Swaqeeb"
+name: "Md Najmus Swaqeeb"
+description: "Researcher, BRAC University"
+
+author:
+  name: "Md Najmus Swaqeeb"
+  avatar: "profile.jpg"
+  bio: "Researcher at BRAC University"
+  employer: "BRAC University"
+  location: "Dhaka, Bangladesh"
+  email: "g.bracu.ac.bd"
+  googlescholar: "https://scholar.google.com/citations?user=2LN_THwAAAAJ"
+  github: "Swaqeeb"# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
